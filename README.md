@@ -20,6 +20,6 @@
 - [오케쥴 서비스 바로가기](https://www.orchedule.live)  
 - [포트폴리오 웹사이트](https://yourportfolio.com) ← 실제 주소로 교체해주세요
 
-
+---
 
 📫 contact: chaerim.dev@gmail.com
